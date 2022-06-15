@@ -11,6 +11,7 @@ namespace hell
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("heaven");
             Console.ReadLine();
         }
     }
